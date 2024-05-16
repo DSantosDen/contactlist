@@ -1,3 +1,5 @@
+##Weekly Assignment Code Notes
+
 ### Overview
 
 The application consists of two main components: `ContactList` and `ContactRow`.<br>
